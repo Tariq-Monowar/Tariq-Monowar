@@ -1,7 +1,3 @@
-![logo](https://github.com/tanvirAhmed73/tanvirAhmed73/blob/main/coverpicture.png)
-### **Hi, My name is Tanvir Ahmed** :wave:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;.)](https://git.io/typing-svg)
-
 
 <h3 align="left">A fervent junior MERN Stack Developer and Front-End Web Developer. With a strong command of the MERN stack—MongoDB, Express.js, React, and Node.js—I'm dedicated to crafting seamless, robust, and scalable applications. On the front end, I specialize in translating design concepts into dynamic and responsive interfaces that captivate users. Passionate about marrying code with creativity, I'm on a journey to create digital experiences that leave a lasting impression.</h3>
 
